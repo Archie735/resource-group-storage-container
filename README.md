@@ -17,6 +17,9 @@ Must have a subscription account on Azure
 
 <h3 align="center"> 1. How to create a resource group</h3>
 
+      What is a Resource Group?
+      "A container that holds related resources for an Azure solution" - Microsoft
+
 - On the homepage of <a href="www.portal.azure.com"> Azure</a>, search for resource group and click on the resource group icon.
 
 <img src=https://github.com/Archie735/resource-group-storage-container/assets/150314129/45a39293-2dc4-42ae-9218-bc7f6e58a138 width="10%" height="auto" alt="resource group icon"/>
@@ -35,6 +38,9 @@ Must have a subscription account on Azure
 <img src=https://github.com/Archie735/resource-group-storage-container/assets/150314129/027959d0-3313-4268-894f-2d01b405511d width="auto" height="auto" alt="finished resource group"/>
 
 <h3 align="center"> 2. How to create a storage account</h3>
+
+      What is a storage account?
+      
 
 - On Azure's homepage, search Storage Accounts and click on the Storage Accounts icon.
 
@@ -56,6 +62,10 @@ Must have a subscription account on Azure
 
 - On your storage account, under data storage, click on containers
 
-<igm src=https://github.com/Archie735/resource-group-storage-container/assets/150314129/144ab184-a45a-43eb-bf08-c2210cf61033 width="50%" height
+<img src=https://github.com/Archie735/resource-group-storage-container/assets/150314129/144ab184-a45a-43eb-bf08-c2210cf61033 width="20%" height="auto" alt="location of container"/>
+
+- Click new containers
+- Name the container then click Create
+
 
 
