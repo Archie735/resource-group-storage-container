@@ -39,7 +39,10 @@ Must have a subscription account on Azure
 
 <h3 align="center"> 2. How to create a storage account</h3>
 
-      What is a storage account?
+      An Azure storage account contains all of your Azure Storage data objects: 
+      blobs, files, queues, and tables. 
+      The storage account provides a unique namespace for your Azure Storage 
+      data that's accessible from anywhere in the world over HTTP or HTTPS. -Microsoft
       
 
 - On Azure's homepage, search Storage Accounts and click on the Storage Accounts icon.
@@ -60,12 +63,16 @@ Must have a subscription account on Azure
 
 <h3 align="center"> 3. How to create a container </h3>
 
+            A standard package of software—known as a container—bundles an application’s code together 
+            with the related configuration files and libraries, and with the dependencies required for the app to run. 
+
 - On your storage account, under data storage, click on containers
 
 <img src=https://github.com/Archie735/resource-group-storage-container/assets/150314129/144ab184-a45a-43eb-bf08-c2210cf61033 width="20%" height="auto" alt="location of container"/>
 
 - Click new containers
 - Name the container then click Create
+- Now you have created a container 😄
 
 
 
